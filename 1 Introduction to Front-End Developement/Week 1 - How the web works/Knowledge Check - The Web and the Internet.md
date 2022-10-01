@@ -3,7 +3,7 @@
    - a Domain Server
    - **an IP Address**
    ```
-   The source and destination of an IP packet are specified using an IP address.
+   The source and destination of an IP packet are specified using an IP address
    ```
 
 2. Which of the following are valid IP addresses? Select all that apply.

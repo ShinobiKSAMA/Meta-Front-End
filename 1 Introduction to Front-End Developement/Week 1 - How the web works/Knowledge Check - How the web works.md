@@ -6,7 +6,7 @@
    ```
 
 2. The website address that you type in your web browser to navigate to a website is called a ____________________.
-   - Client name
+   - Client Name
    - HTTP
    - **Domain name**
    ```

@@ -10,3 +10,30 @@
    - The Network tab of the web browser's developer tools allows you to inspect the timeline of HTTP requests and responses.
    - The Performance and Memory tabs of the web browser's developer tools allow you to inspect how the web browser is performing while displaying your web page.
    ```
+
+2. In software development, a library provides _________________________.
+    - **Reusable pieces of code that can be used by your application.**
+    - A structure for developers to build an application with.
+    ```
+    Libraries help you to be more efficient while developing your application by providing you with reusable code.
+    ```
+
+3. In software development, an API is _________________________.
+    -  **a set of functions that an application component or service can provide.**
+    - a text editor to write code with.
+    ```
+    As a developer you’ll use APIs to interact with application components and services.   
+    ```
+
+4. Which of the following are benefits of using an Integrated Development Environment (IDE) such as Visual Studio Code? Select all that apply.
+    - **Syntax Highlighting**
+    - **Error Highlighting**
+    - **Autocomplete**
+    - Autodelete
+    - **IntelliSense**
+    ```
+    - IDEs will highlight keywords in programming languages for you.
+    - IDEs will display syntax errors for you.
+    - IDEs will suggest code while you type.
+    - IDEs will help you rename functions and change function parameters throughout your application.
+    ```
